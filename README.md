@@ -38,3 +38,9 @@ w.LoadFontBytes(fontBytes)
 ```go
 w.TextWatermarkToFile("Hello.png","世界.png")
 ```
+
+#comparison
+
+Original image                     | Dst image 
+-----------------------------------|----------------------------------------
+![srcImage](Hello.png) | ![dstImage](世界.png) 
